@@ -1,3 +1,4 @@
+
 # Trader Behavior Insights – Data Science Project
 
 This project analyzes the impact of Bitcoin market sentiment (Fear & Greed Index) on trader performance using Hyperliquid's historical trader data.
@@ -16,4 +17,3 @@ This project analyzes the impact of Bitcoin market sentiment (Fear & Greed Index
 
 ## Author:
 Sneha Prasad
-
